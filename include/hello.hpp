@@ -4,6 +4,6 @@
 #include <iostream>
 #include <string>
 
-void fun(const std::string& name);
+int add(int, int);
 
 #endif // HELLO_HPP_

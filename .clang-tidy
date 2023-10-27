@@ -25,6 +25,7 @@ Checks:    "bugprone-*,\
             -google-readability-todo,\
             -modernize-avoid-c-arrays,\
             -modernize-use-trailing-return-type,\
+            -misc-include-cleaner,\
             -misc-non-private-member-variables-in-classes"
 WarningsAsErrors:   '-*'
 HeaderFilterRegex: '^.*\.h(|p{2})$'
